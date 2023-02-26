@@ -1,2 +1,2 @@
-# very-serious-stuff
+# Very Serious Stuff
 Very serious stuff happening over here.
